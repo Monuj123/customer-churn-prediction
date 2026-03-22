@@ -16,14 +16,14 @@ To build a predictive model that can identify customers likely to churn, helping
 
     The dataset contains customer details like:
     
-        Credit Score
-        Geography
-        Gender
-        Age
-        Balance
-        Number of Products
-        Estimated Salary
-        Churn Status (Exited)
+     Credit Score
+     Geography
+     Gender
+     Age
+     Balance
+     Number of Products
+     Estimated Salary
+     Churn Status (Exited)
 
 # Input Layer
     Hidden Layer (Dense + Sigmoid)
