@@ -1,4 +1,4 @@
-## 📊 Customer Churn Prediction
+## 📊 Customer Churn Prediction using ANN
 # 🚀 Overview
 
 This project predicts whether a customer will leave a bank (churn) or stay, using machine learning and deep learning techniques. The model is trained on customer data such as demographics, account details, and transaction behavior.
